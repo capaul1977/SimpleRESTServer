@@ -1,0 +1,1 @@
+﻿How do we instantiate an object via the abstract factory when products are different in the database?

@@ -1,0 +1,6 @@
+C:\Users\paulc\documents\visual studio 2015\Projects\SimpleRESTServer\SimpleRESTServer_BL\bin\Debug\SimpleRESTServer_BL.dll
+C:\Users\paulc\documents\visual studio 2015\Projects\SimpleRESTServer\SimpleRESTServer_BL\bin\Debug\SimpleRESTServer_BL.pdb
+C:\Users\paulc\documents\visual studio 2015\Projects\SimpleRESTServer\SimpleRESTServer_BL\obj\Debug\SimpleRESTServer_BL.dll
+C:\Users\paulc\documents\visual studio 2015\Projects\SimpleRESTServer\SimpleRESTServer_BL\obj\Debug\SimpleRESTServer_BL.pdb
+C:\Users\paulc\documents\visual studio 2015\Projects\SimpleRESTServer\SimpleRESTServer_BL\bin\Debug\SimpleRESTServer_BL.dll.CodeAnalysisLog.xml
+C:\Users\paulc\documents\visual studio 2015\Projects\SimpleRESTServer\SimpleRESTServer_BL\bin\Debug\SimpleRESTServer_BL.dll.lastcodeanalysissucceeded
